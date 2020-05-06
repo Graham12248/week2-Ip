@@ -1,0 +1,32 @@
+#navigation-bar {
+  margin-bottom: 20px;
+  text-align: right;
+  padding: 30px;
+  font-size: 20px;
+  background-color:  #d4d7de;
+  background-size: contain;
+}
+h1{
+  text-align: center;
+}
+a {
+  padding: 2px;
+}
+.btn:hover {
+  background-color: green;
+}
+span{
+  font-style: italic;
+  font: 10px;
+}
+.well{
+  margin-top: 60px;
+}
+h3{
+  color: magenta;
+  text-align: center;
+}
+#comment-text{
+  padding: 80px;
+  margin: 1px solid black;
+}
